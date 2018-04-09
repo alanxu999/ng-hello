@@ -1,0 +1,6 @@
+ng-hello-app-template
+ng-hello-lib-template
+ng-hello-jhipster
+ng-hello-lib/dist
+ng-hello-lib/*.tgz
+ng-hello-app/dist
